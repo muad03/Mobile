@@ -1,0 +1,63 @@
+{
+  "app_name": "Mutqin",
+  "onboarding": {
+    "title1": "Follow your child's memorization",
+    "body1": "Daily memorization and tajweed records in one place, not on paper.",
+    "title2": "Know they arrived",
+    "body2": "Get a notification the moment your child reaches the center.",
+    "title3": "Clear results and reports",
+    "body3": "Weekly test scores and level reports across the months.",
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Done"
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Log in to follow your child",
+    "code": "Login code",
+    "password": "Password",
+    "button": "Log in",
+    "go_signup": "Don't have an account? Sign up"
+  },
+  "signup": {
+    "title": "Parent registration",
+    "subtitle": "Create an account to follow your child",
+    "name": "Name",
+    "phone": "Phone number",
+    "password": "Password",
+    "button": "Sign up",
+    "go_login": "Already have an account? Log in"
+  },
+  "home": {
+    "title": "Halaqa students"
+  },
+  "student": {
+    "code": "Student code",
+    "age": "Age",
+    "juz": "Juz memorized",
+    "attendance": "Attendance",
+    "score": "Last test",
+    "pass": "Pass",
+    "fail": "Fail",
+    "note": "Teacher's note"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "dark_mode": "Dark mode"
+  },
+  "students": {
+    "anas": "Anas Khaled",
+    "anas_note": "Memorizing Al-Baqarah. Excellent memorization, very good tajweed.",
+    "bilal": "Bilal Khaled",
+    "bilal_note": "Needs to revise Surah Al-Qalam before the re-test.",
+    "omar": "Omar Al-Kilani",
+    "omar_note": "Regular attendance, revising Juz' Tabarak.",
+    "ziad": "Ziad Al-Majbari",
+    "ziad_note": "Arrived late today. Finished Al-Kahf 1-10.",
+    "malik": "Malik Al-Tarhouni",
+    "malik_note": "Clear tajweed improvement this month.",
+    "adam": "Adam Al-Qamati",
+    "adam_note": "Youngest in the halaqa. Started with Juz' Amma."
+  }
+}
